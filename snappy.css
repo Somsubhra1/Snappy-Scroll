@@ -1,0 +1,8 @@
+.snappy {
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+}
+
+.snappy-content {
+    scroll-snap-align: start;
+}
